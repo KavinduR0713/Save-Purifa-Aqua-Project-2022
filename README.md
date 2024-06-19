@@ -23,6 +23,17 @@ Save Purifa Aqua Project 2022 is a data-driven initiative aimed at enhancing wat
 3. **Stacked Bar Charts:** These visualize multiple water quality parameters (pH, dissolved oxygen, nitrate, ammonia, phosphate, turbidity) simultaneously across different locations, allowing for a comprehensive comparison.
 4. **Interactive Location Map:** An image map of Parliament Lake divided into eight locations, each represented by a unique laboratory ID, is included. Selecting an ID updates all the charts to reflect data specific to that location.
 
+### Save Purifa Aqua Dashboard
+
+![Page 1](https://github.com/KavinduR0713/Save-Purifa-Aqua-Project-2022/assets/105490780/881672a5-b458-41c6-aabd-d5a550ec2b4c)
+
+![Page 2](https://github.com/KavinduR0713/Save-Purifa-Aqua-Project-2022/assets/105490780/b1fcb36a-c3f3-4be8-80d5-9a2fe9cb02d2)
+
+![Page 3](https://github.com/KavinduR0713/Save-Purifa-Aqua-Project-2022/assets/105490780/2b127068-6178-4ed8-b7fb-89bc8a9b6c21)
+
+![Page 4](https://github.com/KavinduR0713/Save-Purifa-Aqua-Project-2022/assets/105490780/3ee1bd2d-9a10-4a46-a21d-eb5779e41d81)
+
+
 ##  Social Media Campaign:
 - To enhance public engagement and awareness, Save Purifa Aqua Project 2022 runs a robust social media campaign through Facebook and Instagram under the name "Save Purifa Aqua." The campaign includes:
    - Continuous sharing of informative content about water pollution and conservation.
